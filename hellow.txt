@@ -1,3 +1,6 @@
 hello
 11111111ÐÞ¸Ä
 2222222´ÎÐÞ¸Ä
+add som content to hellow.txt
+111111
+aaaaaa
